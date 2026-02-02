@@ -1,4 +1,5 @@
 ---
+title: Venue
 layout: page
 excerpt: "Venue of the II Peptides in Biology and Materials: Bridging simulation and Experimental Data workshop"
 permalink: /venue
