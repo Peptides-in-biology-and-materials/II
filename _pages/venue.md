@@ -5,7 +5,7 @@ excerpt: "Venue of the II Peptides in Biology and Materials: Bridging simulation
 permalink: /venue
 ---
 
-![venue](/II/images/venue.png){:width="700"}
+![venue](/II/images/venue.png){:width="450"}
 
 The II Peptides in Biology and Materials: Bridging simulation and Experimental
 Data workshop will be held at the lecture hall of a Centre of Excellence (UNITe)
