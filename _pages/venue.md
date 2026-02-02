@@ -17,13 +17,13 @@ The building is located in the pleasant Lozenetz district at:
 Bulgaria
 
 ## Getting there
-[![Venue location](/II/images/map.png){:width="320"}](https://maps.app.goo.gl/7dWmKehKRzydmqY29){:target="_blank"}
+[![Venue location](/II/images/map.png){:width="500"}](https://maps.app.goo.gl/7dWmKehKRzydmqY29){:target="_blank"}
 
 The venue is easy to reach by [public transport](https://www.sofiatraffic.bg/en):
 
-* _From Sofia Airport_: From Terminal 2 take the subway (metro) line M4 to station “Stadion Vasil Levski”. There, change to tram No 10 or 15 (Direction Metrostantsiya Vitosha). Exit at stop “Milin kamak”, cross the street, enter the university campus, and follow the left alley for 50 m. The UNITe building will appear on your right.
-* _From the Main Train Station or the Serdica Bus Station_: Take the subway (metro) line M2 to station “Evropeyski Sayuz (European Union)”. There, take the second exit on the left in direction boulevard Arsenalski. Board bus No 94 or 102 (Direction Studentski grad). Exit at the next stop “Seminariyata”. Walk straight ahead for 100 m.
-* _From the city center_: Reach the bus stop across the main building (Rectorate) of Sofia University. Board bus No 94 (Direction Studentski grad). Exit at stop “Seminariyata”. Walk straight ahead for 100 m.
+* __From Sofia Airport__: From Terminal 2 take the subway (metro) line M4 to station “Stadion Vasil Levski”. There, change to tram No 10 or 15 (Direction Metrostantsiya Vitosha). Exit at stop “Milin kamak”, cross the street, enter the university campus, and follow the left alley for 50 m. The UNITe building will appear on your right.
+* __From the Main Train Station or the Serdica Bus Station__: Take the subway (metro) line M2 to station “Evropeyski Sayuz (European Union)”. There, take the second exit on the left in direction boulevard Arsenalski. Board bus No 94 or 102 (Direction Studentski grad). Exit at the next stop “Seminariyata”. Walk straight ahead for 100 m.
+* __From the city center__: Reach the bus stop across the main building (Rectorate) of Sofia University. Board bus No 94 (Direction Studentski grad). Exit at stop “Seminariyata”. Walk straight ahead for 100 m.
 
 Many taxi companies are also available, which could take you to the venue (the price should be about 10 EUR). Some possibilities:
 * OK Supertrans
@@ -43,14 +43,14 @@ There are numerous hotels in Sofia covering broad budget ranges. Several hotels 
 
 There are several ways to travel to Sofia:
 
-* _By plane_: All planes land at [Sofia Airport](https://sofia-airport.eu/en/flights/arrivals/). Standard carriers use Terminal 2, while low-cost companies may land either on Terminal 1 or Terminal 2. If you arrive on Terminal 1, there is a free shuttle bus to Terminal 2. There are also public busses or taxis which connect this terminal directly with the city center.
-* _By bus_: A number of international bus lines operate between Bulgaria and other countries in the region. They arrive at the Serdica Bus Station. For particular lines and tickets availability you may check [Flixbus](https://global.flixbus.com/bus/sofia) or [Union Ivkoni](http://en.union-ivkoni.com/).
-* _By train_: It is also possible to reach Sofia by train but the international destinations are rather limited: Bucharest or Craiova in Romania and Istanbul in Turkey. More info: [Office for international rail tickets](https://www.bdz.bg/en/a/office-for-international-rail-tickets).
-* _By car_: Sofia is easily accessible by car. There are highways entering from the west, east or north. Just follow the standard instructions of your navigation system. Please be aware that traffic jams occur in the rush hours and that parking in the city center may be an issue. More information about parking in Sofia may be found [here](https://www.visitsofia.bg/en/how-to-travel/parking).
+* __By plane__: All planes land at [Sofia Airport](https://sofia-airport.eu/en/flights/arrivals/). Standard carriers use Terminal 2, while low-cost companies may land either on Terminal 1 or Terminal 2. If you arrive on Terminal 1, there is a free shuttle bus to Terminal 2. There are also public busses or taxis which connect this terminal directly with the city center.
+* __By bus__: A number of international bus lines operate between Bulgaria and other countries in the region. They arrive at the Serdica Bus Station. For particular lines and tickets availability you may check [Flixbus](https://global.flixbus.com/bus/sofia) or [Union Ivkoni](http://en.union-ivkoni.com/).
+* __By train__: It is also possible to reach Sofia by train but the international destinations are rather limited: Bucharest or Craiova in Romania and Istanbul in Turkey. More info: [Office for international rail tickets](https://www.bdz.bg/en/a/office-for-international-rail-tickets).
+* __By car__: Sofia is easily accessible by car. There are highways entering from the west, east or north. Just follow the standard instructions of your navigation system. Please be aware that traffic jams occur in the rush hours and that parking in the city center may be an issue. More information about parking in Sofia may be found [here](https://www.visitsofia.bg/en/how-to-travel/parking).
 
 ## Practicalities
 
-* _Currency_: The currency in Bulgaria is Euro (EUR). If you need to exchange currency, it is recommended that you do it in a bank office.
-* _Alphabet_: The Cyrillic alphabet is used in Bulgaria. Street names, airport, public transport stops and stations are also labeled in Latin letters. Many people speak English and will readily help if asked in the street.
-* _Emergency_: The pan-European phone number _112_ is active in Bulgaria in case of emergency.
+* __Currency__: The currency in Bulgaria is Euro (EUR). If you need to exchange currency, it is recommended that you do it in a bank office.
+* __Alphabet__: The Cyrillic alphabet is used in Bulgaria. Street names, airport, public transport stops and stations are also labeled in Latin letters. Many people speak English and will readily help if asked in the street.
+* __Emergency__: The pan-European phone number __112__ is active in Bulgaria in case of emergency.
 
