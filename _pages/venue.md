@@ -32,12 +32,12 @@ Many taxi companies are also available, which could take you to the venue (the p
 ## Accommodation
 
 There are numerous hotels in Sofia covering broad budget ranges. Several hotels with convenient access to the workshop venue are available:
-- [Hotel Crystal Palace](https://www.crystalpalace-sofia.com/?gclid=EAIaIQobChMI94bDicDLggMV0DsGAB0D-QFgEAAYAiAAEgK6zfD_BwE) – single room from 120 Euro per night
-- [Rosslyn Central Park Hotel](https://centralparkhotel.bg/bg/luksozen-hotel-sofia-center/) – single room from 120 Euro per night
-- [Meg Lozenetz Hotel](https://meg-lozenetz.com/) – single room from 90 Euro per night
-- [Park Hotel Moskva](https://parkhotelmoskva.net/en/) – single room from 70 Euro per night
-- [Best Western Lozenetz Hotel](https://www.lozenetzhotel.com/en/) – single room from 50 Euro per night, within walking distance from UNITe
-- [Hostel Mostel](https://www.hostelmostel.com/) – from 10-30 Euro per night
+- [Hotel Crystal Palace](https://www.crystalpalace-sofia.com/?gclid=EAIaIQobChMI94bDicDLggMV0DsGAB0D-QFgEAAYAiAAEgK6zfD_BwE) – single room from €120 per night
+- [Rosslyn Central Park Hotel](https://centralparkhotel.bg/bg/luksozen-hotel-sofia-center/) – single room from €120 per night
+- [Meg Lozenetz Hotel](https://meg-lozenetz.com/) – single room from €90 per night
+- [Park Hotel Moskva](https://parkhotelmoskva.net/en/) – single room from €70 per night
+- [Best Western Lozenetz Hotel](https://www.lozenetzhotel.com/en/) – single room from €50 per night, within walking distance from UNITe
+- [Hostel Mostel](https://www.hostelmostel.com/) – from €10-€30 per night
 
 ## Travel
 
@@ -50,7 +50,7 @@ There are several ways to travel to Sofia:
 
 ## Practicalities
 
-- __Currency__: The currency in Bulgaria is Euro (EUR). If you need to exchange currency, it is recommended that you do it in a bank office.
+- __Currency__: The currency in Bulgaria is the Euro (€, EUR). If you need to exchange currency, it is recommended that you do it in a bank office.
 - __Alphabet__: The Cyrillic alphabet is used in Bulgaria. Street names, airport, public transport stops and stations are also labeled in Latin letters. Many people speak English and will readily help if asked in the street.
 - __Emergency__: The pan-European phone number __112__ is active in Bulgaria in case of emergency.
 

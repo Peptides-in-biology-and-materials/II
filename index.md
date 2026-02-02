@@ -3,11 +3,10 @@ layout: home
 excerpt: "The website of the II edition of the Peptides in Biology and Materials: Bridging Simulation and Experimental Data"
 image:
   feature: banner.svg
+  credit: In memoriam Lorenzo Stella
 ---
 
-> [_**REGISTRATION WILL OPEN SOON**_](/II/registration)
-
-_Attendance will be free of charge_
+> [_**REGISTRATION WILL OPEN SOON**_](/II/registration); _Attendance will be free of charge_
 
 The **II edition of the Peptides in Biology and Materials: Bridging simulation and
 Experimental Data** workshop will take place from the **28th to the 30th of
