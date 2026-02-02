@@ -8,7 +8,7 @@
 -   name: SUMMIT 
     url: https://summit.uni-sofia.bg/ 
     avatar: /images/SUMMIT_logo.png
-    width: 100
+    width: 80
     type: institutional
 
 -   name: National Recovery and Resilience Plan
@@ -24,7 +24,7 @@
 
 -   name: Smart Transformation 
     avatar: /images/smart-transformation.png
-    width: 100
+    width: 200
     type: institutional
 
     #-   name: Iris Biotech
