@@ -4,7 +4,6 @@ excerpt: "Venue of the II Peptides in Biology and Materials: Bridging simulation
 permalink: /venue
 ---
 
-# Venue
 ![venue](/II/images/venue.png){:width="700"}
 
 The II Peptides in Biology and Materials: Bridging simulation and Experimental
@@ -12,9 +11,9 @@ Data workshop will be held at the lecture hall of a Centre of Excellence (UNITe)
 in one of the campuses of Sofia University “St. Kliment Ohridski”.
 
 The building is located in the pleasant Lozenetz district at:  
- 5G James Bourchier blvd.  
- 1164 Sofia  
- Bulgaria
+  5G James Bourchier blvd.  
+  1164 Sofia  
+  Bulgaria
 
 ## Getting there
 [![Venue location](/II/images/map.png){:width="500"}](https://maps.app.goo.gl/7dWmKehKRzydmqY29){:target="_blank"}
