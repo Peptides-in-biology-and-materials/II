@@ -8,7 +8,7 @@
 -   name: SUMMIT 
     url: https://summit.uni-sofia.bg/ 
     avatar: /images/SUMMIT_logo.png
-    width: 50
+    width: 100
     type: institutional
 
 -   name: National Recovery and Resilience Plan
@@ -23,8 +23,7 @@
     type: institutional
 
 -   name: Smart Transformation 
-    url: https://unite-bg.eu/ 
-    avatar: /images/UNITe_logo.png
+    avatar: /images/smart-transformation.png
     width: 100
     type: institutional
 
