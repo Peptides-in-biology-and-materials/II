@@ -1,61 +1,65 @@
 # Logos are given a default 100% width of the containing column
 
--   name: EPS
-    url: https://www.eurpepsoc.com/
-    avatar: /images/eps.png
+-   name: EU
+    avatar: /images/EU.png
     width: 60
     type: institutional
 
--   name: Sociedade Portuguesa de Bioquímica
-    url: https://www.spb.pt/
-    avatar: /images/spb.png   
+-   name: SUMMIT 
+    url: https://summit.uni-sofia.bg/ 
+    avatar: /images/SUMMIT_logo.png
     width: 50
     type: institutional
 
--   name: IST
-    url: https://tecnico.ulisboa.pt/
-    avatar: /images/ist.svg
+-   name: National Recovery and Resilience Plan
+    avatar: /images/NRRP.png
     width: 100
     type: institutional
 
--   name: Gyros Protein Technologies
-    url: https://www.gyrosproteintechnologies.com/
-    avatar: /images/gpt.png
+-   name: UNITe 
+    url: https://unite-bg.eu/ 
+    avatar: /images/UNITe_logo.png
     width: 100
-    type: commercial
+    type: institutional
 
--   name: Iris Biotech
-    url: https://www.iris-biotech.de/global/
-    avatar: /images/iris.png
-    width: 70
-    type: commercial
-
--   name: Paralab Bio
-    url: https://paralab-bio.pt/
-    avatar: /images/paralab-bio.png
+-   name: Smart Transformation 
+    url: https://unite-bg.eu/ 
+    avatar: /images/UNITe_logo.png
     width: 100
-    type: commercial
+    type: institutional
 
--   name: Qlabo
-    url: https://qlabo.pt/
-    avatar: /images/qlabo.png
-    width: 100
-    type: commercial
-
--   name: CEM
-    url: https://cem.com/
-    avatar: /images/cem.png
-    width: 60
-    type: commercial
-
--   name: Proquinorte
-    url: https://www.proquinorte.com/
-    avatar: /images/proquinorte.png
-    width: 100
-    type: commercial
-
--   name: Dias de Sousa
-    url: https://www.dias-de-sousa.pt/
-    avatar: /images/dias_de_sousa.png
-    width: 100
-    type: commercial
+    #-   name: Iris Biotech
+    #    url: https://www.iris-biotech.de/global/
+    #    avatar: /images/iris.png
+    #    width: 70
+    #    type: commercial
+    #
+    #-   name: Paralab Bio
+    #    url: https://paralab-bio.pt/
+    #    avatar: /images/paralab-bio.png
+    #    width: 100
+    #    type: commercial
+    #
+    #-   name: Qlabo
+    #    url: https://qlabo.pt/
+    #    avatar: /images/qlabo.png
+    #    width: 100
+    #    type: commercial
+    #
+    #-   name: CEM
+    #    url: https://cem.com/
+    #    avatar: /images/cem.png
+    #    width: 60
+    #    type: commercial
+    #
+    #-   name: Proquinorte
+    #    url: https://www.proquinorte.com/
+    #    avatar: /images/proquinorte.png
+    #    width: 100
+    #    type: commercial
+    #
+    #-   name: Dias de Sousa
+    #    url: https://www.dias-de-sousa.pt/
+    #    avatar: /images/dias_de_sousa.png
+    #    width: 100
+    #    type: commercial
