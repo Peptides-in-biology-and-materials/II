@@ -1,11 +1,10 @@
 ---
 layout: page
 excerpt: "Venue of the II Peptides in Biology and Materials: Bridging simulation and Experimental Data workshop"
-title: Venue
-image:
-  feature: venue.png
 permalink: /venue
 ---
+
+![venue](/II/images/venue.png){:width="700"}
 
 The II Peptides in Biology and Materials: Bridging simulation and Experimental
 Data workshop will be held at the lecture hall of a Centre of Excellence (UNITe)

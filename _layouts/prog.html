@@ -32,7 +32,6 @@
     <article class="page">
       <h1>{{ page.title }}</h1>
       <div class="article-wrap">
-        {% if site.data.speakers.size > 0 %}
         <h3>Plenary Speakers</h3>
         <ul class="rig columns-1">
             {% for member in site.data.speakers %}
@@ -87,7 +86,6 @@
             {% endfor %}
         </ul>
         <hr />
-        {% endif %}
         {{ content }}
       </div><!-- /.article-wrap -->
     </article>
