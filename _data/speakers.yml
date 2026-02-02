@@ -1,23 +1,23 @@
-﻿-   name: Maria Luisa Mangoni
-    type: plenary
-    position: Sapienza University of Rome
-    url: https://www.marialuisamangoni.it/ 
-    avatar: /XVIII/images/people/MLMangoni.png
-
--   name: Norbert Sewald 
-    type: plenary
-    position: Bielefeld University
-    url: https://www.uni-bielefeld.de/fakultaeten/chemie/ag/oc3-sewald/ 
-    avatar: /XVIII/images/people/NSewald.png
-
--   name: Diana Lousa 
-    type: keynote
-    position: ITQB - Universidade NOVA de Lisboa 
-    url: https://www.itqb.unl.pt/labs/protein-modelling/ 
-    avatar: /XVIII/images/people/DLousa.png
-
--   name: Javier Montenegro García
-    type: keynote
-    position: CiQUS - Universidade de Santiago de Compostela
-    url: https://javiermontenegrochemistry.com/
-    avatar: /XVIII/images/people/JMontenegro.png
+﻿#-   name: Maria Luisa Mangoni
+#    type: plenary
+#    position: Sapienza University of Rome
+#    url: https://www.marialuisamangoni.it/ 
+#    avatar: /XVIII/images/people/MLMangoni.png
+#
+#-   name: Norbert Sewald 
+#    type: plenary
+#    position: Bielefeld University
+#    url: https://www.uni-bielefeld.de/fakultaeten/chemie/ag/oc3-sewald/ 
+#    avatar: /XVIII/images/people/NSewald.png
+#
+#-   name: Diana Lousa 
+#    type: keynote
+#    position: ITQB - Universidade NOVA de Lisboa 
+#    url: https://www.itqb.unl.pt/labs/protein-modelling/ 
+#    avatar: /XVIII/images/people/DLousa.png
+#
+#-   name: Javier Montenegro García
+#    type: keynote
+#    position: CiQUS - Universidade de Santiago de Compostela
+#    url: https://javiermontenegrochemistry.com/
+#    avatar: /XVIII/images/people/JMontenegro.png

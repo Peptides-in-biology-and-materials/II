@@ -27,11 +27,11 @@
     width: 200
     type: institutional
 
-    #-   name: Iris Biotech
-    #    url: https://www.iris-biotech.de/global/
-    #    avatar: /images/iris.png
-    #    width: 70
-    #    type: commercial
+-   name: Frontiers in Chemical Biology
+    url: https://www.frontiersin.org/journals/chemical-biology
+    avatar: /images/frontiers.svg
+    width: 70
+    type: commercial
     #
     #-   name: Paralab Bio
     #    url: https://paralab-bio.pt/
