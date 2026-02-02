@@ -6,6 +6,7 @@ image:
 ---
 
 > [_**REGISTRATION WILL OPEN SOON**_](/II/registration)
+
 > _Attendance will be free of charge_
 
 The II edition of the Peptides in Biology and Materials: Bridging simulation and
