@@ -3,7 +3,7 @@ layout: home
 excerpt: "The website of the II edition of the Peptides in Biology and Materials: Bridging Simulation and Experimental Data"
 image:
   feature: banner.svg
-  credit: [In memoriam Lorenzo Stella](/II/lorenzo)
+inmemoriam: Lorenzo Stella
 ---
 
 > [_**REGISTRATION WILL OPEN SOON**_](/II/registration); _Attendance will be free of charge_

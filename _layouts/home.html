@@ -25,6 +25,9 @@
   {% if page.image.credit %}
     <span class="image-credit">{{ page.image.credit }}</span>
   {% endif %}
+  {% if page.inmemoriam %}
+  <a href="{{ site.url }}/inmemoriam" ><span class="image-credit">In memoriam {{ page.inmemoriam }}</span></a>
+  {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
 <br /> 
