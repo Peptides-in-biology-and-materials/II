@@ -1,30 +1,56 @@
 ---
 layout: page
-excerpt: "Venue of the XVIII Iberian Peptide Meeting"
+excerpt: "Venue of the II Peptides in Biology and Materials: Bridging simulation and Experimental Data workshop"
 title: Venue
 image:
-  feature: hotel-do-mar.jpg
+  feature: venue.png
 permalink: /venue
 ---
 
-## Hotel do Mar
-The 18th Iberian Peptide Meeting will be hosted at the Hotel do Mar, in the
-seaside town of Sesimbra. The hotel will host both the accommodation for the
-participants and the lecture and poster halls.
+The II Peptides in Biology and Materials: Bridging simulation and Experimental
+Data workshop will be held at the lecture hall of a Centre of Excellence (UNITe)
+in one of the campuses of Sofia University “St. Kliment Ohridski”.
+
+The building is located in the pleasant Lozenetz district at:
+5G James Bourchier blvd.
+1164 Sofia
+Bulgaria
 
 ## Getting there
-[![Hotel do Mar location](/XVIII/images/map.png){:width="320"}](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"}
+[![Venue location](/II/images/map.png){:width="320"}](https://maps.app.goo.gl/7dWmKehKRzydmqY29){:target="_blank"}
 
-The [Hotel do Mar](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"} is
-within a 10-minute walk from the center of Sesimbra.
+The venue is easy to reach by [public transport](https://www.sofiatraffic.bg/en):
 
-### By car
-From Lisbon, a car trip to Sesimbra will take 40 to 50 minutes. A ride-hailing
-service such as Uber or Bolt will charge between €30 and €40 for the trip
-(taxis will typically be more expensive).
+* _From Sofia Airport_: From Terminal 2 take the subway (metro) line M4 to station “Stadion Vasil Levski”. There, change to tram No 10 or 15 (Direction Metrostantsiya Vitosha). Exit at stop “Milin kamak”, cross the street, enter the university campus, and follow the left alley for 50 m. The UNITe building will appear on your right.
+* _From the Main Train Station or the Serdica Bus Station_: Take the subway (metro) line M2 to station “Evropeyski Sayuz (European Union)”. There, take the second exit on the left in direction boulevard Arsenalski. Board bus No 94 or 102 (Direction Studentski grad). Exit at the next stop “Seminariyata”. Walk straight ahead for 100 m.
+* _From the city center_: Reach the bus stop across the main building (Rectorate) of Sofia University. Board bus No 94 (Direction Studentski grad). Exit at stop “Seminariyata”. Walk straight ahead for 100 m.
 
-### By bus
-Bus [3721](https://www.carrismetropolitana.pt/horarios/?route_short_name=3721&route_id=3721_0&direction_id=060453&stop_sequence=1)
-fom the Sete-Rios terminal in Lisbon will take you directly to Sesimbra. It
-should cost around €3.
+Many taxi companies are also available, which could take you to the venue (the price should be about 10 EUR). Some possibilities:
+* OK Supertrans
+* Yellow
+
+## Accommodation
+
+There are numerous hotels in Sofia covering broad budget ranges. Several hotels with convenient access to the workshop venue are available:
+* [Hotel Crystal Palace](https://www.crystalpalace-sofia.com/?gclid=EAIaIQobChMI94bDicDLggMV0DsGAB0D-QFgEAAYAiAAEgK6zfD_BwE) – single room from 120 Euro per night
+* [Rosslyn Central Park Hotel](https://centralparkhotel.bg/bg/luksozen-hotel-sofia-center/) – single room from 120 Euro per night
+* [Meg Lozenetz Hotel](https://meg-lozenetz.com/) – single room from 90 Euro per night
+* [Park Hotel Moskva](https://parkhotelmoskva.net/en/) – single room from 70 Euro per night
+* [Best Western Lozenetz Hotel](https://www.lozenetzhotel.com/en/) – single room from 50 Euro per night, within walking distance from UNITe
+* [Hostel Mostel](https://www.hostelmostel.com/) – from 10-30 Euro per night
+
+## Travel
+
+There are several ways to travel to Sofia:
+
+* _By plane_: All planes land at [Sofia Airport](https://sofia-airport.eu/en/flights/arrivals/). Standard carriers use Terminal 2, while low-cost companies may land either on Terminal 1 or Terminal 2. If you arrive on Terminal 1, there is a free shuttle bus to Terminal 2. There are also public busses or taxis which connect this terminal directly with the city center.
+* _By bus_: A number of international bus lines operate between Bulgaria and other countries in the region. They arrive at the Serdica Bus Station. For particular lines and tickets availability you may check [Flixbus](https://global.flixbus.com/bus/sofia) or [Union Ivkoni](http://en.union-ivkoni.com/).
+* _By train_: It is also possible to reach Sofia by train but the international destinations are rather limited: Bucharest or Craiova in Romania and Istanbul in Turkey. More info: [Office for international rail tickets](https://www.bdz.bg/en/a/office-for-international-rail-tickets).
+* _By car_: Sofia is easily accessible by car. There are highways entering from the west, east or north. Just follow the standard instructions of your navigation system. Please be aware that traffic jams occur in the rush hours and that parking in the city center may be an issue. More information about parking in Sofia may be found [here](https://www.visitsofia.bg/en/how-to-travel/parking).
+
+## Practicalities
+
+* _Currency_: The currency in Bulgaria is Euro (EUR). If you need to exchange currency, it is recommended that you do it in a bank office.
+* _Alphabet_: The Cyrillic alphabet is used in Bulgaria. Street names, airport, public transport stops and stations are also labeled in Latin letters. Many people speak English and will readily help if asked in the street.
+* _Emergency_: The pan-European phone number _112_ is active in Bulgaria in case of emergency.
 

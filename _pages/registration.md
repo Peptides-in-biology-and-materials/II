@@ -5,5 +5,5 @@ title: Registration
 permalink: /registration
 ---
 
-**Registration is now closed**. Please direct any inquiries to the [organization](/XVIII/organization).
+**Registration is now closed**. Please direct any inquiries to the [organization](/II/organization).
 
