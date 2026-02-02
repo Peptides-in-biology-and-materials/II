@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            XVIII Iberian Peptide Meeting
+title:            II Peptides in Biology and Materials: Bridging simulation and Experimental Data workshop
 locale:           en_US
-url:              https://iberian-peptide-meeting.github.io/XVIII
+url:              https://peptides-in-biology-and-materials.github.io/II/
 
 
 # Jekyll configuration
@@ -25,9 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Iberian Peptide Meeting
+  name: Peptides in Biology and Materials
   avatar: favicon.svg
-  bio: "The meeting of Iberian researchers of Peptide Science"
+  bio: "Peptides in Biology and Materials: Bridging simulation and Experimental Data workshop"
   email:
   disqus-shortname:
   twitter:

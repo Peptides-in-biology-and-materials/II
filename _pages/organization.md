@@ -4,4 +4,4 @@ excerpt: Organization
 title: Organization
 permalink: /organization
 ---
-E-mail: [epi2023@ctn.tecnico.ulisboa.pt](mailto:epi2023@ctn.tecnico.ulisboa.pt)
+E-mail: [email-placeholder@domain-placeholder.com](mailto:email-placeholder@domain-placeholder.com)

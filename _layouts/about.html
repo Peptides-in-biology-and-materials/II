@@ -33,7 +33,7 @@
       <h1>{{ page.title }}</h1>
       <div class="article-wrap">
         <h3>Organizing Committee</h3>
-        <ul class="rig columns-3">
+        <ul class="rig columns-2">
             {% for member in site.data.organization %}
                 <li class="boxed">
                     {% if member.url %}
@@ -59,31 +59,6 @@
 
         {{ content }}
 
-        <hr />
-        <h3>Scientific Committee</h3>
-        <ul class="rig columns-3">
-            {% for member in site.data.scientificcommittee %}
-                <li class="boxed">
-                    {% if member.url %}
-                        <a href="{{ member.url }}" target="_blank">
-                        {% if member.avatar %}
-                            <img class="avatar" src="{{ member.avatar }}" />
-                        {% endif %}
-                        <h3>{{ member.name }}</h3>
-                        </a>
-                    {% else %}
-                        {% if member.avatar %}
-                            <img class="avatar" src="{{ member.avatar }}" />
-                        {% endif %}
-                        <h3>{{ member.name }}</h3>
-                    {% endif %}
-                    <a class='mem-position'>{{ member.position }}</a>
-                    {% if member.bio %}
-                        <p class='mem-bio'>{{ member.bio }}</p>
-                    {% endif %}
-                </li>
-            {% endfor %}
-        </ul>
     </div><!-- /.article-wrap -->
     </article>
 </div><!-- /#index -->
