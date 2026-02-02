@@ -5,7 +5,8 @@ image:
   feature: banner.svg
 ---
 
-> [_**REGISTRATION WILL OPEN SOON**_](/II/registration)
+> [_**REGISTRATION WILL OPEN SOON**_](/II/registration) _Attendance will be free
+of charge_
 
 The II edition of the Peptides in Biology and Materials: Bridging simulation and
 Experimental Data workshop will take place from the 28th to the 30th of
