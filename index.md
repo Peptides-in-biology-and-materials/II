@@ -1,25 +1,19 @@
 ---
 layout: home
-excerpt: "Website of the XVIII edition of the Iberian Peptide Meeting"
+excerpt: "The website of the II edition of the Peptides in Biology and Materials: Bridging Simulation and Experimental Data"
 image:
   feature: banner.svg
 ---
 
-> [_**REGISTRATION IS NOW CLOSED**_](/XVIII/registration)
+> [_**REGISTRATION IS OPEN**_](/II/registration)
 
-The EPI 2023 - 18th Iberian Peptide Meeting will take place from the 27th to the 29th of
-November, 2023. We are excited to host you at the seaside town of Sesimbra,
-which we are sure will provide the perfect backdrop for three days of
-scientific exchange.
+The II edition of the Peptides in Biology and Materials: Bridging simulation and
+Experimental Data workshop will take place from the 28th to the 30th of
+April 2026, and will be hosted at the University of Sofia, Bulgaria.
 
-The Iberian Peptide Meeting is a biannual event with a history spanning
-decades, organized to foster exchange and collaboration between the Portuguese
-and Spanish research communities working on peptide science. The meeting covers
-varied fields, ranging from peptide synthesis to structural characterization
-and to biological interactions and activity. 
+The Peptides in Biology and Materials: Bridging Simulation and Experimental Data
+workshop was first organized in 2024 as a [satellite to the European Peptide Symposium](https://www.cecam.org/workshop-details/peptides-in-biology-and-materials-bridging-simulation-and-experimental-data-1333).
 
-Finally, as is tradition, focus is being put on facilitating attendance
-by young researchers. This is done as a way to boost both researcher exposure
-and networking, towards a stronger future community.
-
-
+Following the success of the first iteration, this edition focuses on
+expanding the ties to experimental research while promoting attendance by young
+researchers.
