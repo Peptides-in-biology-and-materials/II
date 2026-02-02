@@ -24,13 +24,13 @@
 
 -   name: Smart Transformation 
     avatar: /images/smart-transformation.png
-    width: 200
+    width: 150
     type: institutional
 
 -   name: Frontiers in Chemical Biology
     url: https://www.frontiersin.org/journals/chemical-biology
     avatar: /images/frontiers.svg
-    width: 120
+    width: 110
     type: commercial
     #
     #-   name: Paralab Bio
