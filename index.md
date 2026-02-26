@@ -17,7 +17,7 @@ Following the success of the first iteration, this edition focuses on
 expanding ties to experimental research while promoting attendance by young
 researchers.
 
-We leveraged funding to cover the entirety of participation costs, meaning [**attendance is free of charge**](/II/registration).
+The entirety of participation costs will be covered with funding from the National Recovery and Resilience Plan of the Republic of Bulgaria, project No BG-RRP-2.004-0008 SUMMIT, meaning [**attendance is free of charge**](/II/registration).
 
 In a partnership with [Frontiers in Chemical Biology](https://www.frontiersin.org/journals/chemical-biology),
 workshop participants are invited to publish their results free of
