@@ -32,7 +32,7 @@
     <article class="page">
       <h1>{{ page.title }}</h1>
       <div class="article-wrap">
-        <h3>Plenary Speakers</h3>
+ <!--       <h3>Plenary Speakers</h3>
         <ul class="rig columns-1">
             {% for member in site.data.speakers %}
                 {% if member.type == 'plenary' %}
@@ -58,11 +58,10 @@
                 {% endif %}
             {% endfor %}
         </ul>
-        <hr />
-        <h3>Keynote Speakers</h3>
+        <hr /> -->
+        <h3>Confirmed Speakers</h3>
         <ul class="rig columns-2">
             {% for member in site.data.speakers %}
-                {% if member.type == 'keynote' %}
                     <li class="boxed">
                         {% if member.url %}
                             <a href="{{ member.url }}" target="_blank">
@@ -82,7 +81,6 @@
                             <p class='mem-bio'>{{ member.bio }}</p>
                         {% endif %}
                     </li>
-                {% endif %}
             {% endfor %}
         </ul>
         <hr />

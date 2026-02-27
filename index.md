@@ -23,5 +23,6 @@ The entirety of participation costs will be covered with funding from the Nation
 
 In a partnership with [Frontiers in Chemical Biology](https://www.frontiersin.org/journals/chemical-biology),
 workshop participants are invited to publish their results free of
-charge in a [dedicated issue](about:blank).
+charge in a dedicated issue.
+#charge in a [dedicated issue](about:blank).
 
