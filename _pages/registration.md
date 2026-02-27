@@ -5,5 +5,7 @@ title: Registration
 permalink: /registration
 ---
 
-**Registration is not yet open**. Please direct any inquiries to the [organization](/II/organization).
+**Registration is open. Abstract submission until April 1st**.
+
+Please fill in the [registration form](https://forms.gle/SLnLpqSr1z76RQra6).
 
