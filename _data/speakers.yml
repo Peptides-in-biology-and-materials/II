@@ -1,23 +1,49 @@
-﻿#-   name: Maria Luisa Mangoni
-#    type: plenary
-#    position: Sapienza University of Rome
-#    url: https://www.marialuisamangoni.it/ 
-#    avatar: /XVIII/images/people/MLMangoni.png
-#
-#-   name: Norbert Sewald 
-#    type: plenary
-#    position: Bielefeld University
-#    url: https://www.uni-bielefeld.de/fakultaeten/chemie/ag/oc3-sewald/ 
-#    avatar: /XVIII/images/people/NSewald.png
-#
-#-   name: Diana Lousa 
+﻿#-   name: Diana Lousa 
 #    type: keynote
 #    position: ITQB - Universidade NOVA de Lisboa 
 #    url: https://www.itqb.unl.pt/labs/protein-modelling/ 
 #    avatar: /XVIII/images/people/DLousa.png
-#
-#-   name: Javier Montenegro García
-#    type: keynote
-#    position: CiQUS - Universidade de Santiago de Compostela
-#    url: https://javiermontenegrochemistry.com/
-#    avatar: /XVIII/images/people/JMontenegro.png
+
+-   name: Burkard Bechinger
+    type: keynote
+    position: University of Strasbourg, France
+
+-   name: Elka Georgieva
+    type: keynote
+    position: Texas Tech University, USA
+
+-   name: Alena Khmelinskaia
+    type: keynote
+    position: Ludwig Maximilian University, Germany
+
+-   name: Vittorio Limongelli
+    type: keynote
+    position: Università della Svizzera italiana, Switzerland
+
+-   name: Diana Lousa
+    type: keynote
+    position: NOVA University of Lisbon, Portugal
+
+-   name: Ana Pina
+    type: keynote
+    position: NOVA University of Lisbon, Portugal
+
+-   name: Daniela Roversi
+    type: keynote
+    position: Tor Vergata University of Rome, Italy
+
+-   name: Martin Ulmschneider
+    type: keynote
+    position: King's College London, United Kingdom
+
+-   name: Robert Vacha
+    type: keynote
+    position: Masaryk University, Czech Republic
+
+-   name: Alessandra Villa
+    type: keynote
+    position: Royal Institute of Technology, Sweden
+
+-   name: Marta De Zotti
+    type: keynote
+    position: Padua University, Italy
