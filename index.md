@@ -6,7 +6,7 @@ image:
 inmemoriam: Lorenzo Stella
 ---
 
-> [_**REGISTRATION OPEN**_](/II/registration)   _Attendance will be free of charge_
+> [_**REGISTRATION OPEN**_](/II/registration)   _Attendance is free of charge_
 
 The **II edition of the Peptides in Biology and Materials: Bridging simulation and
 Experimental Data** workshop will take place from the **28th to the 30th of
