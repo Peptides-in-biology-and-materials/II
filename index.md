@@ -4,6 +4,7 @@ excerpt: "The website of the II edition of the Peptides in Biology and Materials
 image:
   feature: banner.svg
 inmemoriam: Lorenzo Stella
+permalink: /
 ---
 
 > [_**REGISTRATION OPEN**_](/II/registration)   _Attendance is free of charge_
