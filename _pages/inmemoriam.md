@@ -1,7 +1,7 @@
 ---
 title: In memoriam Lorenzo Stella
 layout: page
-feature: inmemoriam.
+feature: inmemoriam.jpg
 permalink: /inmemoriam
 
 
