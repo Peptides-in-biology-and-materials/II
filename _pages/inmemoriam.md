@@ -1,10 +1,10 @@
 ---
 title: In memoriam Lorenzo Stella
 layout: page
-image:
-  feature: inmemoriam.jpg
 permalink: /inmemoriam
 ---
+
+![Lorenzo Stella](/II/images/inmemoriam.jpg){:width="460"}
 
 The first edition of this workshop, held in Florence in 2024, was strongly
 promoted by Lorenzo Stella. Sadly, Lorenzo was unable to attend the workshop,
