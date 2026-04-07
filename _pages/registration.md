@@ -5,7 +5,8 @@ title: Registration
 permalink: /registration
 ---
 
-**Registration is open. Abstracts can be submitted until April 1st**.
+**Registration is closed.**
 
-Please fill in the [registration form](https://forms.gle/SLnLpqSr1z76RQra6).
+Please contact the [organization](mailto:second-peptides-workshop@chem.uni-sofia.bg)
+for late registration options.
 
