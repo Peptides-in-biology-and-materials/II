@@ -7,7 +7,9 @@ inmemoriam: Lorenzo Stella
 permalink: /
 ---
 
-> [_**REGISTRATION OPEN**_](/II/registration)   _Attendance is free of charge_
+> _**REGISTRATION CLOSED**   Attendance is free of charge
+(contact the [organization](mailto:second-peptides-workshop@chem.uni-sofia.bg)
+for late registration options)_
 
 The **II edition of the Peptides in Biology and Materials: Bridging simulation and
 Experimental Data** workshop will take place from the **28th to the 30th of
