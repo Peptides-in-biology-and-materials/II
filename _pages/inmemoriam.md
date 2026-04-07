@@ -7,7 +7,7 @@ permalink: /inmemoriam
 ![Lorenzo Stella](/II/images/inmemoriam.jpg){:width="460"}
 
 The first edition of this workshop, held in Florence in 2024, was strongly
-promoted by Lorenzo Stella. Sadly, Lorenzo was unable to attend the workshop,
+promoted by Lorenzo Stella. Sadly, Lorenzo was unable to attend that workshop,
 as a severe illness had already left him greatly disabled. That same illness
 took him away on August 24, 2025.
 
@@ -23,13 +23,13 @@ are the key to the advancement of science and he really loved taking part in and
 promoting conferences and workshops. He was also an active member of several
 scientific societies, including the Biophysical Society, being part of the
 Editorial Board of the Biophysical Journal (in the “Membranes” section), the
-Italian Peptide Society, which he co-found also serving as its Secretary, and
-the Italian Society for Pure and Applied Biophysics (SIBPA), as a member of the
+Italian Peptide Society, which he co-founded and was also Secretary of, and
+the Italian Society for Pure and Applied Biophysics (SIBPA) as a member of the
 steering committee.
 
 His choice to promote this workshop reflected the very essence of his scientific
 career, in which he combined spectroscopic techniques and computational methods
-with rare mastery,  particularly fluorescence spectroscopy and molecular
+with rare mastery, particularly fluorescence spectroscopy and molecular
 dynamics simulations. In the later stages of his career, he focused increasingly
 on peptides with therapeutic potential, including antimicrobial peptides to
 counter drug resistance and peptides interacting with proteins involved in
