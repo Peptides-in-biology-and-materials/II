@@ -5,7 +5,7 @@ title: Program
 permalink: /program
 ---
 
-- [Full program](/XVIII/images/PROGRAM_Second_peptides-workshop.pdf)
+- [Full program](images/PROGRAM_Second_peptides-workshop.pdf)
 
 ## Abstract Book available soon
 
