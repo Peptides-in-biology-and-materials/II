@@ -27,38 +27,13 @@
     width: 150
     type: institutional
 
+-   name: Sofia University "St. Kliment Ohridsky" 
+    avatar: /images/USofia_logo.png
+    width: 150
+    type: institutional
+
 -   name: Frontiers in Chemical Biology
     url: https://www.frontiersin.org/journals/chemical-biology
     avatar: /images/frontiers.svg
     width: 110
     type: commercial
-    #
-    #-   name: Paralab Bio
-    #    url: https://paralab-bio.pt/
-    #    avatar: /images/paralab-bio.png
-    #    width: 100
-    #    type: commercial
-    #
-    #-   name: Qlabo
-    #    url: https://qlabo.pt/
-    #    avatar: /images/qlabo.png
-    #    width: 100
-    #    type: commercial
-    #
-    #-   name: CEM
-    #    url: https://cem.com/
-    #    avatar: /images/cem.png
-    #    width: 60
-    #    type: commercial
-    #
-    #-   name: Proquinorte
-    #    url: https://www.proquinorte.com/
-    #    avatar: /images/proquinorte.png
-    #    width: 100
-    #    type: commercial
-    #
-    #-   name: Dias de Sousa
-    #    url: https://www.dias-de-sousa.pt/
-    #    avatar: /images/dias_de_sousa.png
-    #    width: 100
-    #    type: commercial
