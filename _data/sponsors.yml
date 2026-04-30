@@ -1,5 +1,11 @@
 # Logos are given a default 100% width of the containing column
 
+-   name: Sofia University
+    url: https://www.uni-sofia.bg/
+    avatar: /images/USofia_logo.png
+    width: 100
+    type: institutional
+
 -   name: EU
     avatar: /images/EU.png
     width: 60
@@ -25,12 +31,6 @@
 -   name: Smart Transformation 
     avatar: /images/smart-transformation.png
     width: 150
-    type: institutional
-
--   name: Sofia University
-    url: https://www.uni-sofia.bg/
-    avatar: /images/USofia_logo.png
-    width: 80
     type: institutional
 
 -   name: Frontiers in Chemical Biology
