@@ -27,9 +27,10 @@
     width: 150
     type: institutional
 
--   name: Sofia University "St. Kliment Ohridsky" 
+-   name: Sofia University
+    url: https://www.uni-sofia.bg/
     avatar: /images/USofia_logo.png
-    width: 150
+    width: 80
     type: institutional
 
 -   name: Frontiers in Chemical Biology
