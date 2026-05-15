@@ -35,5 +35,5 @@ the creative environment and the unforgettable moments!
 
 _Anela_, _Gianfranco_, _Paolo_, _Manuel_ and _Galia_
 
-![Opening session](/II/images/2.jpg){:width="460"}
+![Organizers](/II/images/gallery/2.jpg){:width="460"}
 
