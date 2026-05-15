@@ -15,7 +15,7 @@ together 45 participants from 7 countries – esteemed scientists and young
 researchers who exchanged ideas and experience in the vividly developing field
 of peptide research. 
 
-![Group photo](/II/images/groupphoto.jpg){:width="600"}
+![Group photo](/II/images/groupphoto.jpg)
 
 The focus of the workshop was on bridging computational and experimental
 approaches to study peptide-based systems, which encompassed state-of-the-art
