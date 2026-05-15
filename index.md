@@ -7,24 +7,33 @@ inmemoriam: Lorenzo Stella
 permalink: /
 ---
 
-> _**REGISTRATION CLOSED**   Attendance is free of charge
-(contact the [organization](mailto:second-peptides-workshop@chem.uni-sofia.bg)
-for late registration options)_
+The **II edition of the Peptides in Biology and Materials: Bridging simulation
+and Experimental Data** experimental data" took place from April 28 to April 30,
+2026 in the conference hall of CoE UNITe with the financial support of project
+BG-RRP-2.004-0008 SUMMIT of Sofia University. The international event brought
+together 45 participants from 7 countries – esteemed scientists and young
+researchers who exchanged ideas and experience in the vividly developing field
+of peptide research. 
 
-The **II edition of the Peptides in Biology and Materials: Bridging simulation and
-Experimental Data** workshop will take place from the **28th to the 30th of
-April 2026**, and will be hosted at the University of Sofia, Bulgaria.
+![Group photo](/II/images/groupphoto.jpg){:width="600"}
 
-The workshop highlights computational peptide research and its connection to
-experiemntal techniques and applications.
-It was first organized in 2024 as a [satellite to the European Peptide Symposium](https://www.cecam.org/workshop-details/peptides-in-biology-and-materials-bridging-simulation-and-experimental-data-1333).
-Following the success of the first iteration, this edition focuses on
-expanding ties to experimental research while promoting attendance by young
-researchers.
+The focus of the workshop was on bridging computational and experimental
+approaches to study peptide-based systems, which encompassed state-of-the-art
+topics such as peptide design, bioactive peptides (including membrane-active
+peptides and inhibitors of protein-protein interactions), peptide-based
+materials, processes at cell membranes, etc. The opening lectures were delivered
+by Prof. Vittorio Limongelli from Università della Svizzera Italiana, Lugano,
+Switzerland, and Dr. Elka Georgieva from Texas Tech University, Lubbock, USA. 
 
-The entirety of participation costs will be covered with funding from the National Recovery and Resilience Plan of the Republic of Bulgaria, project No BG-RRP-2.004-0008 SUMMIT, meaning [**attendance is free of charge**](/II/registration).
+![Opening session](/II/images/opening_session.jpg){:width="460"}
 
-In a partnership with [Frontiers in Chemical Biology](https://www.frontiersin.org/journals/chemical-biology),
-workshop participants are invited to publish their results free of
-charge in a dedicated issue.
+The atmosphere was truly inspiring, marked by genuine interest, lively
+discussions and opportunities to form new collaborations.
+
+Sincere thanks to all participants for their valuable scientific contributions,
+the creative environment and the unforgettable moments!
+
+_Anela_, _Gianfranco_, _Paolo_, _Manuel_ and _Galia_
+
+![Opening session](/II/images/organizers_final.jpg){:width="460"}
 
