@@ -62,6 +62,21 @@ svg:not(:root) {
 	}
 }
 
+/* 6 images of equal dimensions in a row */
+
+.sixth {
+	@include container;
+	@include clearfix;
+	@media #{$micro} {
+		img {
+			@include grid(12,2);
+		}
+		figcaption {
+			@include grid(12,12);
+		}
+	}
+}
+
 /*
    Buttons
    ========================================================================== */

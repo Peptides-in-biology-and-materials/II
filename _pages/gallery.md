@@ -113,4 +113,4 @@ gallery:
     title: img_27
 ---
 
-{% include gallery id="gallery" %}
+{% include gallery id="gallery" layout="sixth" %}
