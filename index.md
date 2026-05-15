@@ -25,7 +25,7 @@ materials, processes at cell membranes, etc. The opening lectures were delivered
 by Prof. Vittorio Limongelli from Università della Svizzera Italiana, Lugano,
 Switzerland, and Dr. Elka Georgieva from Texas Tech University, Lubbock, USA. 
 
-![Opening session](/II/images/opening_session.jpg){:width="460"}
+![Opening session](/II/images/gallery/7.jpg){:width="460"}
 
 The atmosphere was truly inspiring, marked by genuine interest, lively
 discussions and opportunities to form new collaborations.
@@ -35,5 +35,5 @@ the creative environment and the unforgettable moments!
 
 _Anela_, _Gianfranco_, _Paolo_, _Manuel_ and _Galia_
 
-![Opening session](/II/images/organizers_final.jpg){:width="460"}
+![Opening session](/II/images/2.jpg){:width="460"}
 
