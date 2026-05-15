@@ -107,10 +107,6 @@ gallery:
     image_path: /images/gallery/26_thumb.jpg
     alt: img_26
     title: img_26
-  - url: /images/gallery/27.jpg
-    image_path: /images/gallery/27_thumb.jpg
-    alt: img_27
-    title: img_27
 ---
 
 {% include gallery id="gallery" layout="sixth" %}
